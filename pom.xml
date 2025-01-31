@@ -10,7 +10,7 @@
 
     <groupId>com.facebook.presto</groupId>
     <artifactId>presto-maven-plugin</artifactId>
-    <version>0.9</version>
+    <version>0.10-SNAPSHOT</version>
     <packaging>takari-maven-plugin</packaging>
 
     <name>Presto Maven Build Extension</name>
@@ -170,8 +170,4 @@
             </build>
         </profile>
     </profiles>
-
-  <scm>
-    <tag>presto-maven-plugin-0.9</tag>
-  </scm>
 </project>
